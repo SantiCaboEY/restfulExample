@@ -21,13 +21,13 @@ dependency-reduced-pom.xml
 ##############################
 ## Gradle
 ##############################
-gradle/
+.gradle/
 build/
 !gradle-wrapper.jar
 ##############################
 ## IntelliJ IDEA
 ##############################
-idea/
+.idea/
 *.iml
 out/
 ##############################
